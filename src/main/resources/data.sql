@@ -27,8 +27,8 @@ insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_i
 insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1005, 'Transaction 5', 90, '2020-04-26 10:20:00','APRIL', 101);
 insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1006, 'Transaction 6', 80, '2020-04-27 10:20:00','APRIL', 101);
 
-insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1009, 'Transaction 101', 120, '2020-06-02 14:30:00','JUNE', 102);
-insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1200, 'Transaction 102', 200, '2020-06-02 14:20:00','JUNE', 102);
-insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1201, 'Transaction 103', 130, '2020-05-02 16:10:00','MAY', 102);
-insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1202, 'Transaction 104', 40, '2020-05-02 15:20:00','MAY', 102);
-insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (1008, 'Transaction 105', 110, '2020-04-02 13:25:00','APRIL', 102);
+insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (2001, 'Transaction 101', 120, '2020-06-02 14:30:00','JUNE', 102);
+insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (2002, 'Transaction 102', 200, '2020-06-02 14:20:00','JUNE', 102);
+insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (2003, 'Transaction 103', 130, '2020-05-02 16:10:00','MAY', 102);
+insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (2004, 'Transaction 104', 40, '2020-05-02 15:20:00','MAY', 102);
+insert into TRANSACTION(id, description, total, trnx_date,trnx_month, customer_id) values (2005, 'Transaction 105', 110, '2020-04-02 13:25:00','APRIL', 102);
